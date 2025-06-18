@@ -1,0 +1,20 @@
+## 1
+Right now, using AI feels like a big deal - you open ChatGPT or Claude, type something, and think "wow, I'm talking to an AI!"
+But according to andrej karpathy,  AI will become invisible background technology, just like electricity. You don't think "wow, I'm using electricity!" when you flip a light switch - you just expect it to work.
+In the future:
+
+AI will be quietly running inside all our apps and devices
+we'll pay based on how much we use it (like your electric bill)
+we'll only notice it when it breaks or goes down
+Companies will watch their "AI costs" the same way they watch their electricity bills today
+Eventually it'll become so common and cheap that it's just basic infrastructure
+
+Basically, AI will go from being this exciting new thing to being boring background plumbing that everything depends on - which is actually a sign that the technology has become truly successful.
+
+## 2. LLMs as a chip factory
+Building a computer chip factory costs billions, but once it's built, making each individual chip is cheap. AI models work the same way - it costs a fortune to train GPT-4 or Claude (buying GPUs, hiring smart people, gathering data), but once it's trained, answering our question costs almost nothing.
+This means only super-rich companies like Google, OpenAI, and Microsoft can afford to build the best AI models. Smaller companies have to find other ways to make money - maybe by training specialized AIs for doctors or lawyers, or building tools that help test AI systems.
+
+## 3. LLMs as an operating system
+Your phone's operating system (iOS/Android) hides all the complicated hardware stuff and gives app developers simple tools to work with. AI services are becoming similar - they now offer clean, easy ways for developers to add voice recognition, image understanding, and tool-use to their apps.
+Whichever AI company makes the easiest-to-use tools will win, and developers will get "locked in" to using them (just like iPhone developers are locked into Apple's ecosystem). If your app doesn't add something special on top of the basic AI features, it might get replaced when the AI company adds that feature directly.
